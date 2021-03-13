@@ -1,8 +1,13 @@
 ### Hi there, I am Daniël 👋
 
+<div align="left" width="20">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&show_icons=true&theme=dark)](https://github.com/danielgroen/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&hide=contribs,prs&theme=dark)
+</div>
+<div align="left">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgroen&theme=dark&layout=compact)](https://github.com/danielgroen/github-readme-stats)
+</div>
 
 ### I work with
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
