@@ -1,12 +1,13 @@
 ### Hi there, I am Daniël 👋
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&show_icons=true&theme=dark)](https://github.com/danielgroen/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgroen&theme=dark&layout=compact)](https://github.com/danielgroen/github-readme-stats)
 </div>
 
+<!-- TODO:: aanvullen -->
 ### I work with
-<div width="200">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/bitbucket.svg">
@@ -45,4 +46,3 @@
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vuex-store.svg"><br><br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/yaml.svg">
-</div>
