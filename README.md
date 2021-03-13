@@ -10,6 +10,8 @@
 <br>
 <hr>
 <!-- TODO:: aanvullen -->
+
+#### I also work with
 <br><br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
