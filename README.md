@@ -25,7 +25,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/git.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/gitlab.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/go_gopher.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/gulp.svg"><br><br>
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/gulp.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/heroku.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/html.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/javascript.svg">
@@ -37,7 +37,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/nodejs.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/npm.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/php.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/postcss.svg"><br><br>
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/postcss.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/prettier.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/rollup.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/sass.svg">
