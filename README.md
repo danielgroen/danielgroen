@@ -1,10 +1,13 @@
 ### Hi there, I am Daniël 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&show_icons=true&theme=dark)](https://github.com/danielgroen/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&hide=contribs,prs&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgroen&theme=dark&layout=compact)](https://github.com/danielgroen/github-readme-stats)
+
 ### I work with
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/bitbucket.svg">
-<img width="30" align="left" style="filter: grayscale(.5); opacity: .4;" src="./node_modules/material-icon-theme/icons/bower.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/console.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/css.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/database.svg">
@@ -13,7 +16,6 @@
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/git.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/gitlab.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/go_gopher.svg">
-<img width="30" align="left" style="filter: grayscale(.5); opacity: .4;" src="./node_modules/material-icon-theme/icons/grunt.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/gulp.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/heroku.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/html.svg">
@@ -42,5 +44,3 @@
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/yaml.svg">
 <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielgroen)
-https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g
