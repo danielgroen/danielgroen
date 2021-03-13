@@ -30,7 +30,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/html.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/javascript.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/jest.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/json.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/json.svg"><br><br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/karma.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/markdown.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/mjml.svg">
