@@ -7,7 +7,7 @@
 </div>
 
 <!-- TODO:: aanvullen -->
-#### Ik werk ook met
+## Ik werk ook met
 <br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
