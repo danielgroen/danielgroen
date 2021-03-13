@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielgroen/danielgroen/issues"
   },
-  "homepage": "https://github.com/danielgroen/danielgroen#readme"
+  "homepage": "https://github.com/danielgroen/danielgroen#readme",
+  "dependencies": {
+    "material-icon-theme": "^3.7.1"
+  }
 }
