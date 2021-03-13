@@ -47,7 +47,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/travis.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/twig.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/typescript.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/vscode.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/vscode.svg"><br><br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vue.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vuex-store.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
