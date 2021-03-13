@@ -1,4 +1,5 @@
 ### Hi there, I am Daniël 👋
+I'ld love to write code but not to write this summary XD
 <hr>
 <br><br>
 
