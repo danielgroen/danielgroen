@@ -1,10 +1,6 @@
 ### Hi there, I am Daniël 👋
 
-<div align="left" width="20">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&show_icons=true&theme=dark)](https://github.com/danielgroen/github-readme-stats)
-</div>
-<div align="left">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&theme=dark)](https://github.com/danielgroen/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgroen&theme=dark&layout=compact)](https://github.com/danielgroen/github-readme-stats)
 </div>
