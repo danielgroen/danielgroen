@@ -8,13 +8,13 @@
 
 <!-- TODO:: aanvullen -->
 ### I work with
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg"><br>
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/bitbucket.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/console.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/css.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/database.svg"><br><br>
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/docker.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/docker.svg"><br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/eslint.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/git.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/gitlab.svg">
