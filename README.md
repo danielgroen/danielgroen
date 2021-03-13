@@ -8,9 +8,9 @@
 
 <!-- TODO:: aanvullen -->
 ### I work with
-<img width="30" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/bitbucket.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/console.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/css.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/database.svg"><br><br>
@@ -26,7 +26,7 @@
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/jest.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/json.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/karma.svg"><br><br>
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/markdown.svg"> 
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/markdown.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/mjml.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/nodejs.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/npm.svg">
