@@ -42,5 +42,5 @@
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/yaml.svg">
 <br>
-<br>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielgroen)
 https://dev.to/anuraghazra/dynamically-generated-github-stats-for-your-profile-readme-o4g
