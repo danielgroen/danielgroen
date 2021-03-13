@@ -7,7 +7,7 @@
 </div>
 
 <!-- TODO:: aanvullen -->
-<h3 style="display:block;">I work with                </h3>
+#### Ik werk ook met
 <br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
