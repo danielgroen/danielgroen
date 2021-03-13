@@ -3,7 +3,7 @@
 <br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&show_icons=true&theme=dark)](https://github.com/danielgroen/github-readme-stats)
-<br><br>
+<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgroen&theme=dark&layout=compact)](https://github.com/danielgroen/github-readme-stats)
 </div>
