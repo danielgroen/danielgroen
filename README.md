@@ -43,7 +43,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/sass.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/storybook.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/stylelint_light.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/svg.svg"><br><br>
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/svg.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/travis.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/twig.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/typescript.svg">
