@@ -52,3 +52,4 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vuex-store.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/yaml.svg">
+and more...
