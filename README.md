@@ -13,8 +13,8 @@
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/console.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/css.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/database.svg"><br><br><br>
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/docker.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/database.svg"><br><br>
+<img width="30" src="./node_modules/material-icon-theme/icons/docker.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/eslint.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/git.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/gitlab.svg">
