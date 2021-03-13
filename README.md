@@ -7,7 +7,7 @@
 </div>
 
 <!-- TODO:: aanvullen -->
-### I work with
+<h3>I work with</h3>
 <br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/angular.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
