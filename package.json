@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/danielgroen/danielgroen#readme",
   "dependencies": {
-    "devicons": "^1.8.0",
     "material-icon-theme": "^3.7.1"
   }
 }

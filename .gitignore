@@ -1,3 +1,2 @@
 node_modules/*
 !node_modules/material-icon-theme
-!node_modules/devicons
