@@ -72,7 +72,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
-<br><br>
+<!-- <br><br>
 <hr>
 <br><br>
 
@@ -81,4 +81,4 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/bower.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ie10/ie10-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ie10/ie10-original.svg"> -->
