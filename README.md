@@ -25,8 +25,8 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/docker.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/eslint.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/git.svg">
@@ -37,7 +37,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/html.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/javascript.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/jest.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/json.svg"><br><br>
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/json.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/karma.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/markdown.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/mjml.svg">
@@ -54,7 +54,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/travis.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/twig.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/typescript.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/vscode.svg"><br><br>
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/vscode.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vue.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vuex-store.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
