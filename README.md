@@ -18,7 +18,15 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/bitbucket.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/console.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/css.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/database.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/docker.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/eslint.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/git.svg">
@@ -62,14 +70,14 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
-and more...
-
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <br><br>
 <hr>
 <br><br>
 
-<p align="left">⛔️</p>
+<p align="left">⛔️⛔️⛔️</p>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/grunt.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/bower.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ie10/ie10-original.svg">
