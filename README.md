@@ -29,7 +29,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/docker.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/eslint.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/git.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/git.svg"><br><br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/gitlab.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/go_gopher.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/gulp.svg">
@@ -46,7 +46,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/php.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/postcss.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/prettier.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/rollup.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/rollup.svg"><br><br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/sass.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/storybook.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/stylelint_light.svg">
@@ -59,7 +59,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vuex-store.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/yaml.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/sublime.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/sublime.svg"><br><br>
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
