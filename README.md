@@ -59,11 +59,11 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vuex-store.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/yaml.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/sublime.svg"><br><br>
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/sublime.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg"><br><br>
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg">
