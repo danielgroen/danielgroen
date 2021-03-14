@@ -65,8 +65,11 @@ I'ld love to write code but not to write this summary XD
 and more...
 
 <br><br>
-<hr>⛔️⛔️⛔️
+<hr>
 <br><br><br>
 
-<img width="30" opacity="0.5" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+<img width="30" align="left" src="">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/grunt.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/bower.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
