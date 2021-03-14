@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+<i class="devicon-devicon-plain"></i>
 ### Hi there, I am Daniël 👋
 I'ld love to write code but not to write this summary XD
 <br><br><br>
@@ -52,4 +55,6 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/vuex-store.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/yaml.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/sublime.svg">
+<img width="30" align="left" src="./node_modules/devicons/!PNG/angular_simple.png">
 and more...
