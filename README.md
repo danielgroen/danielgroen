@@ -11,7 +11,6 @@ I'ld love to write code but not to write this summary XD
 </div>
 <br>
 <hr>
-<!-- TODO:: aanvullen -->
 
 <br><br>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/babel.svg">
@@ -69,5 +68,5 @@ and more...
 <hr>⛔️⛔️⛔️
 <br><br><br>
 
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+<img width="30" opacity="0.5" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
