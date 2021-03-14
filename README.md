@@ -66,9 +66,9 @@ and more...
 
 <br><br>
 <hr>
-<br><br><br>
+<br><br>
 
-<img width="30" align="left" src="">
+<p align="left">⛔️</p>
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/grunt.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/bower.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
