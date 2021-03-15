@@ -72,6 +72,7 @@ I'ld love to write code but not to write this summary XD
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+<img width="30" align="left" src="./node_modules/material-icon-theme/icons/editorconfig.svg">
 
 <!-- <br><br>
 <hr>
