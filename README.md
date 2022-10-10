@@ -16,7 +16,7 @@
 * [Stefano keizers](https://stefanokeizers.nl)
 * [Profit calculator](https://www.funchaworld.com/calculator/)
 * [Mijn verticaletuin](https://mijnverticaletuin.nl)
-* [Miltenburg groen]([https://miltenburg](https://miltenburg-groen.nl/)
+* [Miltenburg groen](https://miltenburg-groen.nl/)
 * [Oppepper](https://oppepper.nl)
 * [Vvsec](https://vvsec.nl)
 * [Betuwse deuren](https://betuwsedeuren.nl/)
