@@ -1,13 +1,14 @@
-<a href="https://github.com/danielgroen/danielgroen" target="_blank"><img src="https://hits.b3log.org/danielgroen/danielgroen.svg"></a>
+# Hello world, I am Daniël 👋
+
 <br><br>
-### Hello world, I am Daniël 👋
+
+<a href="https://github.com/danielgroen/danielgroen" target="_blank"><img src="https://hits.b3log.org/danielgroen/danielgroen.svg"></a>
+
+<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&show_icons=true&theme=dark&card_width=300)](https://github.com/danielgroen/github-readme-stats)
+<p>&nbsp;&nbsp;</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgroen&theme=dark&layout=compact)](https://github.com/danielgroen/github-readme-stats)
-<br><br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgroen&theme=dark&layout=compact)](https://github.com/danielgroen/github-readme-stats)
-</div>
 <br>
 <hr>
 
