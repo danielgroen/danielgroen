@@ -58,10 +58,10 @@
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/webpack.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/yaml.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/sublime.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg"><br><br>
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg"><br><br>
+<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg">
@@ -71,14 +71,3 @@
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/editorconfig.svg">
-
-<!-- <br><br>
-<hr>
-<br><br>
-
-<p align="left">⛔️⛔️⛔️</p>
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/grunt.svg">
-<img width="30" align="left" src="./node_modules/material-icon-theme/icons/bower.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ie10/ie10-original.svg"> -->
