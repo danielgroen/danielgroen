@@ -1,10 +1,6 @@
 <a href="https://github.com/danielgroen/danielgroen" target="_blank"><img src="https://hits.b3log.org/danielgroen/danielgroen.svg"></a>
 <br><br>
-### Hi there, I am Daniël 👋
-I'ld love to write code but not to write this summary XD
-<br><br><br>
-<hr>
-<br><br>
+### Hello world, I am Daniël 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgroen&show_icons=true&theme=dark)](https://github.com/danielgroen/github-readme-stats)
 <br><br><br>
