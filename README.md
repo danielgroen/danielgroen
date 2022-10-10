@@ -9,9 +9,20 @@
 <hr>
 
 <br><br>
-## Some Apps / sites i have worked on:
+### Some Apps / sites i have worked on:
 * [groenkennisnet.nl](https://groenkennisnet.nl)
-* [groenkennisnet.nl](https://groenkennisnet.nl)
+* [KPN](https://kpn.nl/shop)
+* [Kapsalon Ans](https://kapsalonanssoest.nl)
+* [Stefano keizers](https://stefanokeizers.nl)
+* [Profit calculator](https://www.funchaworld.com/calculator/)
+* [Mijn verticaletuin](https://mijnverticaletuin.nl)
+* [Miltenburg groen]([https://miltenburg](https://miltenburg-groen.nl/)
+* [Oppepper](https://oppepper.nl)
+* [Vvsec](https://vvsec.nl)
+* [Betuwse deuren](https://betuwsedeuren.nl/)
+* [Garagedeur Actie](http://garagedeur-actie.nl/)
+* [Jelle Kuiper](https://jellekuiper.nl)
+* [Studio Ginger](https://studioginger.nl)
 
 <br>
 <hr>
