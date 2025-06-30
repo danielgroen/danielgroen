@@ -10,7 +10,10 @@
 
 <br><br>
 ### Some Apps / sites i have worked on:
+* [iDEAL](https://pay.ideal.nl/)
+* [Njoy](https://njoy-itsallinyourhair.nl/)
 * [groenkennisnet.nl](https://groenkennisnet.nl)
+* [Tradingwebhookz](https://tradingwebhookz.com/)
 * [KPN](https://kpn.nl/shop)
 * [Kapsalon Ans](https://kapsalonanssoest.nl)
 * [Stefano keizers](https://stefanokeizers.nl)
