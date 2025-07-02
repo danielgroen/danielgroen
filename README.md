@@ -88,7 +88,6 @@
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg">
-<img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img width="30" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
 <img width="30" align="left" src="./node_modules/material-icon-theme/icons/editorconfig.svg">
